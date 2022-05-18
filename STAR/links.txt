@@ -1,0 +1,8 @@
+Hardware: https://e2e.ti.com/support/sensors-group/sensors/f/sensors-forum/1037712/iwr6843aopevm-iwr6843aopevm-which-additional-boards-required?tisearch=e2e-sitesearch&keymatch=IWR6843AOPEVM#
+https://www.ti.com/lit/ug/swru546d/swru546d.pdf?ts=1645507811467&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FIWR6843ISK-ODS
+
+https://www.diva-portal.org/smash/get/diva2:1541369/FULLTEXT01.pdf
+
+Velocity estimation: https://www.iist.ac.in/sites/default/files/people/IN14204/Lecture%2022-23-FMCW%20Radar.pdf
+https://www.tutorialspoint.com/radar_systems/radar_systems_doppler_effect.html
+https://youtu.be/B4_3eNBpYJo - Promo Video
